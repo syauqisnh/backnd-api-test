@@ -1,5 +1,11 @@
 DOKUMENTASI LEARNING MANAGEMENT SYSTEM SEDERHANA BY SYAUQI NUR HIBATULLAH:
 
+Teknologi :
+1. JavaScript Module
+2. NodeJS Express
+3. Mysql
+4. Prisma
+
 Instalasi :
 
 1. npm install
